@@ -1,3 +1,6 @@
+## Hi, I'm JPowerM,
+web developer from Italy. I'm try to become a full stack developer.
+
 ## Skills 
 * HTML 
 * CSS 
@@ -11,14 +14,20 @@
 * XML
 * JSON
 
-## Get to Know Me 
-- 👋 Hi, I’m @JPowerM
-- 🔭 I’m currently working on becoming a Full Stack Developer 
-- 🌱 I’m currently learning ReactJS and always learning Javascript 
-- 🍺 I love beer
-
-
 ## Contact 
-💻 [Instagram](https://www.instagram.com/jpowerm/) 🐦 [Facebook](https://www.facebook.com/JorgeMiguelMedina/) 🐦 [Twitter](https://twitter.com/JpowerM)
+<div align="left">
+  
+  <a href="https://www.instagram.com/jpowerm/">
+    <img src="https://img.shields.io/badge/JPowerM-Instagram-red" />
+  </a>  
+  <a href="https://www.facebook.com/JorgeMiguelMedina">
+    <img src="https://img.shields.io/badge/JPowerM-Facebook-blue" />
+  </a>
+  <a href="https://twitter.com/JpowerM">
+    <img src="https://img.shields.io/twitter/follow/JpowerM" />
+  </a>
+
+</div>
+
 <br>
 <br>
