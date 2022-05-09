@@ -1,9 +1,9 @@
 ## Hi, I'm JPowerM,
-web developer from Italy. I'm try to become a full stack developer.
+web developer from Italy. I'm  a full stack developer.
 
 ## Skills 
 * HTML 
-* CSS 
+* CSS (SASS)
 * Javascript 
 * Bootstrap 
 * ReactJS
